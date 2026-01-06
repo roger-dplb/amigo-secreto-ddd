@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "svKaxlWM49M=",
+  "success": true,
+  "projectFilePath": "/Users/rogerdepaula/Documents/repos/pessoal/AmigoSecreto/AmigoSecreto.API/AmigoSecreto.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/rogerdepaula/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/rogerdepaula/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
