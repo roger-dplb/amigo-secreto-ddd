@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmigoSecreto.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ccca65aa4b56fb77558ea8cdee14058ac7641a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmigoSecreto.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmigoSecreto.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
